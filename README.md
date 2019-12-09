@@ -4,7 +4,7 @@ My bot did not contain enough information as to what it was supposed to be about
 is a function in the game Toontown Rewritten called the "Pick-A-Name Generator."  This is a naming option to choose when you are first
 creating your toon (avatar).  You can either pick a name combination from the given list or type your own.  Since the generator in the game
 already has a specific style and structure, I decided to make it into a bot by giving players ideas to generate a new name combination that
-has not been used in the game yet.  The amount of names I included in the bot in the beginning were less than half of the total amount of names, so I added more name choices for the bot to generate more combinations.
+has not been used in the game yet.  The amount of names I included in the bot in the beginning were less than half of the total amount of names, so I added the rest of the names from the list which can be found <a href="http://www.mmocentralforums.com/forums/showthread.php?t=341265">here</a>.  The title names have the shortest list because I did not include gender-specific names.  You cannot have a toon named "Aunt Alvin" etc. as that would be an illegal combination.
 
 My poem
 
